@@ -39,7 +39,9 @@ body {
 }
 
 /* Custom Button Styles */
-
+.btn-dark-right{
+	margin-left:80%;
+}
 .btn-dark {
     border-radius: 4;
     color: #fff;
