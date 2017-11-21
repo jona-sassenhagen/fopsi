@@ -237,6 +237,7 @@ hr.small {
 
 .persons {
     padding: 50px 0;
+    background: url(../img/osium_peeps.jpg) no-repeat center center scroll;
 	font-family: 'Comfortaa', cursive;
 }
 
