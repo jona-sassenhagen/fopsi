@@ -259,7 +259,7 @@ hr.small {
     height: 300px;
     color: #000;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/locations.png) no-repeat left center scroll;
+    background: url() no-repeat left center scroll;
     -webkit-background-size: auto;
     -moz-background-size: auto;
     background-size: 100% auto;
@@ -282,7 +282,7 @@ hr.small {
     height: 400px;
     color: #fff;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/workspace.jpg) no-repeat center center scroll;
+    background: url() no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
