@@ -268,12 +268,11 @@ hr.small {
 
 .text-dark {
 	/*background-color: rgba(51,123,183,.6);*/
-	background-color: rgba(20,20,20,.6);
-	color: #fff;
+	color: #0;
 }
 
 .text-dark a {
-	color: #fff;
+	color: #0;
 }
 
 .workspace {
