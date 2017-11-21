@@ -432,5 +432,6 @@ a:focus, a:hover {
 	background-color:#f0ebe1;
 }
 
-
-
+.services .col-md-3 {
+    width: 25%;
+}
