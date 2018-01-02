@@ -449,3 +449,9 @@ a:focus, a:hover {
 	background-color:#660000;
 }
 
+#news{
+	text-align:center;
+	padding-top:25px;
+	height:450px;
+}
+
