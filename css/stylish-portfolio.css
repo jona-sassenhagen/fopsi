@@ -193,7 +193,7 @@ hr.small {
 /* Services */
 
 .details {
-    padding: 20px 0;
+    padding: 50px 0;
 	font-family: 'Comfortaa', cursive;
 	font-size: 17px;
 	background-color:#f0ebe1;
@@ -237,8 +237,13 @@ hr.small {
 /* persons */
 
 .persons {
-    padding: 50px 0;
+    padding: 20px 0;
 	font-family: 'Comfortaa', cursive;
+	background-color:#f0ebe1;
+	font-size: 14px;
+}
+.persons .service-item{
+   width:170px;
 }
 
 .persons a {
@@ -429,9 +434,13 @@ a:focus, a:hover {
 
 #calendar{
 	
-	background-color:#f0ebe1;
+	background-color:#660000;
 }
 
 .services .col-md-3 {
+    width: 25%;
+}
+
+.details .col-md-3 {
     width: 25%;
 }
