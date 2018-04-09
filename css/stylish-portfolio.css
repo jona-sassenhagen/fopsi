@@ -17,10 +17,10 @@ body {
 }
 
 .text-color-blue {
-	color:#337ab7;
+	color:#cornflowerblue;
 }
 .text-color-blue a {
-	color:#337ab7;
+	color:#cornflowerblue;
 }
 
 .text-vertical-center {
@@ -85,7 +85,7 @@ hr.small {
     height: 100%;
     margin-right: -250px;
     overflow-y: auto;
-	background-color: rgba(2,2,2,0.7);
+	background-color: #cornflowerblue;
     /*background: #222;
 	opacity: 0.8;*/
     -webkit-transition: all 0.4s ease 0s;
@@ -169,8 +169,8 @@ hr.small {
     position: relative;
     width: 100%;
     height: 70% ;
-	background: url(../img/osium_overview.png) no-repeat center center scroll;
-	background-color:#f0ebe1;
+	background: url(../img/goethe.png) no-repeat center center scroll;
+	background-color:#white;
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -188,7 +188,7 @@ hr.small {
 #sponsors {
     /*padding: 50px 0;*/
 	font-family: 'Comfortaa', cursive;
-	background-color:#f0ebe1;
+	background-color:#white;
 }
 
 /* Services */
@@ -197,7 +197,7 @@ hr.small {
     padding: 50px 0;
 	font-family: 'Comfortaa', cursive;
 	font-size: 17px;
-	background-color:#f0ebe1;
+	background-color:#white;
 }
 
 /* Services */
@@ -205,7 +205,7 @@ hr.small {
 .services {
     padding: 50px 0;
 	font-family: 'Comfortaa', cursive;
-	background-color:#660000;
+	background-color:#cornflowerblue;
 }
 
 .services a {
@@ -240,7 +240,7 @@ hr.small {
 .persons {
     padding: 20px 0;
 	font-family: 'Comfortaa', cursive;
-	background-color:#f0ebe1;
+	background-color:#white;
 	font-size: 14px;
 }
 .persons .service-item{
@@ -248,11 +248,11 @@ hr.small {
 }
 
 .persons a {
-    color: red;
+    color: #cornflowerblue;
 }
 
 .persons a:focus, a:hover {
-    /*color: red;*/
+    /*color: #cornflowerblue;*/
     text-decoration: underline;
 }
 
@@ -359,11 +359,11 @@ footer {
 }
 
 a {
-    color: #337ab7;
+    color: #cornflowerblue;
 }
 
 a:focus, a:hover {
-    /*color: #337ab7;*/
+    /*color: #cornflowerblue;*/
     text-decoration: underline;
 }
 
@@ -436,7 +436,7 @@ a:focus, a:hover {
 
 #calendar{
 	
-	background-color:#660000;
+	background-color:#cornflowerblue;
 }
 
 .services .col-md-3 {
@@ -448,7 +448,7 @@ a:focus, a:hover {
 }
 
 #sponsors{
-	background-color:#660000;
+	background-color:#cornflowerblue;
 }
 
 #news{
@@ -458,6 +458,6 @@ a:focus, a:hover {
 }
 
 .text-primary{
-	color:#f0ebe1;
+	color:#white;
 }
 
