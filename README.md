@@ -2,7 +2,7 @@
 
 This is the source code of the above mentioned website.
 The website can be seen here: 
-https://fopsi.github.io
+https://jona-sassenhagen.github.io/fopsi/
 
 This code was largely taken from:
 https://OpenScienceInitiativeUniversityMarburg.github.io
