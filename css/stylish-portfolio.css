@@ -172,7 +172,7 @@ hr.small {
     size: contain;
 	background: url(../img/fopsi.png) no-repeat center center scroll;
 	background-color: black;
-	text-shadow: 2px 2px grey;
+	text-shadow: 1.5px 1.5px grey;
 	color: white;
     
     -webkit-background-size: cover;
