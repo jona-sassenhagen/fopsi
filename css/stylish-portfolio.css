@@ -167,10 +167,13 @@ hr.small {
 .header {
     display: table;
     position: relative;
-    width: 100%;
-    height: 70% ;
+    width: 100%;  /*100%;*/
+    height: auto;  /*100% ;*/
+    size: contain;
 	background: url(../img/fopsi.png) no-repeat center center scroll;
-	background-color:#white;
+	background-color: black;
+	text-shadow: 2px 2px grey;
+	color: white;
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -213,7 +216,7 @@ hr.small {
 }
 
 .services a:focus, a:hover {
-    /*color: white;*/
+    color: white;
     text-decoration: underline;
 }
 
@@ -363,7 +366,7 @@ a {
 }
 
 a:focus, a:hover {
-    /*color: #cornflowerblue;*/
+    color: #cornflowerblue;
     text-decoration: underline;
 }
 
